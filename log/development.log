@@ -112,3 +112,11 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 13ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 1800)
 
 
+Started GET "/" for 118.155.44.54 at 2019-12-26 12:30:47 +0900
+Cannot render console from 118.155.44.54! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering vender/bundle/gems/railties-6.0.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered vender/bundle/gems/railties-6.0.2.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.5ms | Allocations: 311)
+Completed 200 OK in 12ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 1800)
+
+
